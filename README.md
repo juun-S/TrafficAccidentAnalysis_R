@@ -1,5 +1,10 @@
 ## 요일별, 시간대별 교통사고 분석 및 정책 제안
 
+<a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuun-S%2FTrafficAccidentAnalysis_R&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hit Counter for TrafficAccidentAnalysis_R"/>
+</a>
+
+
 ### 개요
 
 이 프로젝트는 도로교통공단의 데이터를 활용하여, 요일별, 시간대별 교통사고 발생 패턴과 심각성을 분석하고, 이를 토대로 실질적인 정책을 제안하는 것을 목표로 합니다.
